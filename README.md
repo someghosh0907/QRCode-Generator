@@ -1,3 +1,6 @@
+This is a QR Code generator where one can input a text and generate QR Code instantly.
+This project also has Light/dark Theme functionality.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
